@@ -1,0 +1,9 @@
+{
+  "data_loss": {
+    "enabled": true,
+    "weight_ni": 10.0,
+    "weight_Te": 5.0,
+    "weight_Vp": 30.0,
+    "csv_path": "haas_gallimore_p5_5p4A.csv"
+  }
+}
