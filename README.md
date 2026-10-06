@@ -105,4 +105,5 @@ in the metrics file are.
 
 J. Adjedj, *A Self-Consistent Two-Dimensional Physics-Informed Neural Network Model of a Hall
 Effect Thruster Plasma Using a Charge-Separation Form of Poisson's Equation*, M.S. thesis,
+APRG,
 University of Florida, 2026.
